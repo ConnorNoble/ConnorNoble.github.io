@@ -1,0 +1,87 @@
+#links{
+    float:left;
+    background-color:white;
+}
+#links:hover{
+    background-color:lightblue;
+}
+#ou{
+    text-align:right;
+}
+h1{
+    text-align:center;
+    color:antiquewhite;
+    font-weight:bold;
+    text-decoration: underline;
+}
+#pic1{
+    width:200px;
+    height 200px;
+}
+#pic2 {
+    width: 200px;
+    height 200px;
+}
+body{
+    background-color:darkred;
+}
+#projectspage{
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:white;
+    color:black;
+    font-size: 25px;
+    text-align: center;
+    padding: 10px;
+}
+#aboutme{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    background-color: white;
+    color: black;
+    font-size: 25px;
+    text-align: center;
+    padding: 10px;
+
+    width: 60%;
+}
+#aboutme:hover{
+    background-color:skyblue;
+}
+#skillpage1{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:white;
+    color:black;
+    font-size: 25px;
+    text-align:center;
+    padding: 10px;
+    width:50%;
+
+}
+#skillpage1:hover
+{
+    background-color:skyblue;
+}
+li{
+    text-align:left;
+}
+#homepage{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:white;
+    border: 3px solid black;
+
+    color:black;
+    font-size:25px;
+    text-align:center;
+    padding:10px;
+    width:50%;
+}
+#homepage:hover{
+    background-color:skyblue;
+}
